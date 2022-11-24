@@ -1,0 +1,32 @@
+body {
+    background: pink;
+    text-align: center;
+}
+
+.container {
+    padding: 12rem;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+#heading {
+    font-family: cursive;
+    color: brown;
+}
+
+#bday-input {
+    border-radius: 5px;
+    background: palevioletred;
+    border: 2px solid brown;
+    margin: 1rem;
+padding: .7rem 2rem;
+}
+#checkBtn {
+    background: palevioletred;
+    border-radius: 5px;
+    margin: 1rem;
+    padding: .7rem 2rem;
+border: 2px solid brown;
+}
